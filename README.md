@@ -1,4 +1,4 @@
-  **Bank Customer Churn Analysis Project**
+                                          **Bank Customer Churn Analysis Project**
   
 **Project Overview**
 
@@ -20,7 +20,7 @@ Machine Learning Models: Training and evaluating classifiers such as logistic re
 Model Evaluation: Using metrics like accuracy, precision, recall, F1-score, and AUC-ROC to assess model performance.
 **File Structure**
 Bank Customer Churn Analysis Project.ipynb: Contains the full workflow for data loading, preprocessing, modeling, and evaluation.
-Data 
+Churn_Modelling.csv: "Credit Card Transactions Fraud Detection Dataset" from Kaggle 
 
 **Prerequisites**
 
@@ -34,4 +34,28 @@ Jupyter Notebook
 
 **Dataset**
 
-The dataset used in this project includes customer attributes (e.g., age, balance, and tenure) and a target variable indicating whether a customer has churned. Ensure the dataset is in the required format with no missing critical features.
+The dataset used in this project is the "Credit Card Transactions Fraud Detection Dataset" from Kaggle:
+[https://www.kaggle.com/datasets/kartik2112/fraud-detection]
+The dataset includes:
+● trans_date_trans_time: Transaction datetime
+● cc_num: Credit card number
+● merchant: Merchant name
+● category: Transaction category
+● amt: Transaction amount
+● first: Customer first name
+● last: Customer last name
+● gender: Customer gender
+● street: Street address
+● city: City
+● state: State
+● zip: ZIP code
+● lat: Latitude
+● long: Longitude
+● city_pop: City population
+● job: Customer occupation
+● dob: Date of birth
+● trans_num: Transaction number
+● unix_time: Unix timestamp
+● merch_lat: Merchant latitude
+● merch_long: Merchant longitude
+● is_fraud: Fraud flag (0 or 1)
