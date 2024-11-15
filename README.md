@@ -1,4 +1,4 @@
-                                          **Bank Customer Churn Analysis Project**
+   **Bank Customer Churn Analysis Project**
   
 **Project Overview**
 
