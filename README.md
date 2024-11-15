@@ -1,5 +1,7 @@
-                                                              ****Bank Customer Churn Analysis Project****
+  **Bank Customer Churn Analysis Project**
+  
 **Project Overview**
+
 The Bank Customer Churn Analysis project focuses on understanding and predicting customer churn in a banking context. Churn refers to customers leaving the bank, and reducing churn is critical for maintaining profitability and growth. This project utilizes machine learning techniques to analyze customer data, identify key drivers of churn, and develop predictive models.
 
 **Objectives**
@@ -29,5 +31,7 @@ Jupyter Notebook
 •	numpy for numerical computations
 •	matplotlib and seaborn for visualization
 •	scikit-learn for machine learning models and evaluation
+
 **Dataset**
+
 The dataset used in this project includes customer attributes (e.g., age, balance, and tenure) and a target variable indicating whether a customer has churned. Ensure the dataset is in the required format with no missing critical features.
